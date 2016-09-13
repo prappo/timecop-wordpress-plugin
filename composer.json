@@ -1,6 +1,6 @@
 {
-  "name": "getherbert/herbert-plugin",
-  "description": "Herbert plugin",
+  "name": "prappo/timecop",
+  "description": "TimeCop",
   "license": "MIT",
   "require": {
     "getherbert/framework": "~0.9"
